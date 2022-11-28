@@ -56,4 +56,64 @@
   
   - tomada de decisões com mais confiança
   
+## Aula 7 - Arquitetura vs Design de software
+
+  - Arquitetura: escopo global, mais alto nível
   
+  - Design: escopo local (classe com menos responsabilidades, como implementar um design pattern), mais baixo nível
+  
+## Aula 8 - Sustentabilidade no dia zero
+
+  - desenvolver sw custa caro
+  
+  - sw resolve uma "dor"
+  
+  - sw tem que se pagar ao longo do tempo
+  
+  - precisa evoluir juntamente com o negócio
+  
+  - solução demanda arquitetura
+  
+##  Aula 9 - Pilares da arquitetura de software
+
+  - estruturação (evolução, componentização)
+  
+  - componentização 
+  
+  - comunicação entre sistemas
+  
+  - governança (padronização, regras, documentação, definição de protocolos utilizados)
+  
+    - não necessariamente governança corporativa, mas que de um norte para o desenvolvimento
+	
+## Aula 10 - Requisitos arquiteturais (RAs)
+
+  - performance
+  
+    - tempo por requisição
+	
+	- throughput ("x" transações por segundo)
+  
+  - armazenamento de dados
+  
+    - compliance do país onde os dados estão
+  
+  - escalabilidade
+  
+    - horizontal, vertical, load balancer
+  
+  - segurança
+  
+    - PCI, criptografia, mútuo ou TLS
+	
+  - legal
+  
+    - lgpd
+	
+  - Auditoria
+  
+    - logs, tempo retenção desses dados
+
+  - marketing
+  
+    - tracking, tipos de dispositivos, campanha personalizada (considerando localização do usuário)
