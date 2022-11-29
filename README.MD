@@ -39,3 +39,11 @@
 	- Caching: exclusivo X compartilhado
 	
 	- Edge Computing
+	
+  - [Escalabilidade](escalabilidade/README.MD))
+  
+    - Conceito
+	
+	- Escalabilidade x performance	
+	
+	- Escala vertical x escala horizontal
