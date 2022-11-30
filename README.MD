@@ -53,3 +53,23 @@
 	- Características sobre escalabilidade de banco de dados
 	
 	- Proxy reverso
+	
+  - [Resiliência](resiliencia/README.MD)
+  
+    - Health check
+	
+	- Rate limit
+	
+	- Circuit breaker
+	
+	- API Gateway
+	
+	- Service mesh
+	
+	- Comunicação assíncrona
+	
+	- Garantias de entrega com Retry
+	
+	- Garantias de entrega com Kafka
+	
+	- Situações complexas e decisões de alto nível
