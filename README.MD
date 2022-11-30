@@ -40,10 +40,12 @@
 	
 	- Edge Computing
 	
-  - [Escalabilidade](escalabilidade/README.MD))
+  - [Escalabilidade](escalabilidade/README.MD)
   
     - Conceito
 	
 	- Escalabilidade x performance	
 	
 	- Escala vertical x escala horizontal
+	
+	- Descentralização

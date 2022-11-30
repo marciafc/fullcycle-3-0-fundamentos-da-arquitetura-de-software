@@ -27,4 +27,22 @@
 	  - não requer a melhor máq
 	  
 	  - se uma máq cair -> não ficam todas fora do ar
+	  
+## Aula 2 - Escalando aplicações
+
+  - descentralização: tirar o que está focado em uma máq, por em outro local e permitir que esssa máq possa ser criada / removida sem perda de infos, podendo assim aumentar o throughput
+  
+    - disco efêmero (tudo pode ser apagado qdo necessário)
+	  - não mantém estado
+	
+	- servidor de aplicação X servidor de assets
+	  - aplicação é stateless
+	
+	- cache centralizado
+	
+	- sessões centralizadas (servidor de cache)
+	
+	- upload / gravação de arquivos
+	
+	
 
