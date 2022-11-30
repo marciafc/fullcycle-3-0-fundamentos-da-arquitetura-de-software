@@ -49,3 +49,7 @@
 	- Escala vertical x escala horizontal
 	
 	- Descentralização
+	
+	- Características sobre escalabilidade de banco de dados
+	
+	- Proxy reverso
