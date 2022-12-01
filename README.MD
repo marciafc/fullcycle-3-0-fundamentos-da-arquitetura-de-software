@@ -1,5 +1,7 @@
 # Fundamentos da arquitetura de software
 
+  - [Certificado conclusão](https://fullcycle.com.br/certificado/7e2f79e0-6b6f-47a2-8723-d0cbe799bf00)
+
   - [Fundamentos](fundamentos/README.MD)
   
     - Tipos de arquitetura: tecnológica, corporativa, solução, software
